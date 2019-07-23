@@ -107,7 +107,7 @@ class App extends Component {
           )}
         </Content>
         <Content>
-          {"The digit is: " + "(look the console please ¯\\_(ツ)_/¯ )"}
+          {"The digit is: (look the console please ¯\\_(ツ)_/¯ )"}
         </Content>
         <GlobalStyle />
       </Container>
