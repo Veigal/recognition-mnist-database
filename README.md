@@ -9,6 +9,9 @@ The digits can be the ones belonging to the MNIST dataset, available at http://y
 3. Show the result of the request on the frontend.
 
 ----------------------------------------------------------------------------------------------------------------------------
+This is my first web projevt and my first contact with JavaScript/Node and React.
+
 I used and trained a Microsoft API (Custo Vision AI) to the recognit the digit. In the future probably I will use the TensorFlow to recognition, to develop my skills with machine learning concepts.
 
 The result in the frontend is being shown with "console.log ()".
+
